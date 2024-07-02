@@ -1,5 +1,5 @@
 # Redux Toolkit to-do
 
-## Available Scripts
+## learning RTK
 
 ### `https://www.youtube.com/watch?v=C0fBnil_Im4`
